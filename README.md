@@ -1,7 +1,7 @@
 ## Goals
 - Learn to use a TDD approach
 - Learn how to use mocking in tests
-- Have fun and solidfy understanding of the above concepts
+- Have fun and solidify understanding of the above concepts
 - Enjoy yourself!
   - Don't feel too much pressure with this.
   - You are free to reach out for assistance at any time, but I recommend giving things a shot before doing so just to help you learn to think through the ideas.
