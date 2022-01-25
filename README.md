@@ -95,7 +95,7 @@ end
       #arrange
       cat_repository = CatRepository.new
 
-      actual_result = at_repository.get_cats()
+      actual_result = cat_repository.get_cats()
       expect(actual_result.length()).to > 0
     end
 ```
