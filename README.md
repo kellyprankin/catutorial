@@ -16,7 +16,7 @@
 
 ## Create a new Rails project:
 ``rails new Catutorial -d postgresql -T -G``
-- -d sets the database you would like to use for the project. In this case postgressql.
+- -d sets the database you would like to use for the project. In this case postgresql.
 - -T prevents the default test folder from being generated since we'll be using rspec
 - -G skips setting up a git repository since you've probably already cloned this one.
 
