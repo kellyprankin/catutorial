@@ -15,8 +15,10 @@
 - Make sure you have rails 7 installed as well as ruby >= 3.1
 
 ## Create a new Rails project:
-``rails new Catutorial -d postgresql -T``
+``rails new Catutorial -d postgresql -T -G``
+- -d sets the database you would like to use for the project. In this case postgressql.
 - -T prevents the default test folder from being generated since we'll be using rspec
+- -G skips setting up a git repository since you've probably already cloned this one.
 
 ## Switch to the newly created project folder:
 ``cd Catutorial``
@@ -65,7 +67,7 @@ cat_repository_spec.rb
 ```
 describe 'CatRepository' do
   describe 'get_categories' do
-    it 'should return cats'
+    it 'should return cats' do
       expect(nil).to eq true
     end
   end  
