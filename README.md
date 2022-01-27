@@ -8,6 +8,7 @@
 - Remember... Enjoy yourself!
   - Don't feel too much pressure with this.
   - You are free to reach out for assistance at any time, but I recommend giving things a shot before doing so just to help you learn to think through the ideas.
+  - Consider typing the code in instead of just copying and pasting. I've provided it to make it easy to focus on understanding the concepts, but it will help you to internalize it.
 
 ## Setup
   - [Sign up for the Cat Api](https://thecatapi.com/)
