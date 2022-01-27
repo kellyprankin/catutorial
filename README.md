@@ -35,7 +35,7 @@
 ``rails s``
 
 ## Stop once you verify the app is running.
-# Next, Add the following to your gemfile:
+# Next, Add the following to the existing section in your Gemfile:
 
 ```
 group :development, :test do
