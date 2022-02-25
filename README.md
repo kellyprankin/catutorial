@@ -54,6 +54,10 @@ end
 - ``bundle install``
 - ``rails g rspec:install``
 
+## Add rails_helper to rspec file
+- Add the following line to the `Catutorial/.rspec` config file
+- ``--require rails_helper``
+
 ## Make sure app is still working:
 ``rail s``
 
